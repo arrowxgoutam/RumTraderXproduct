@@ -215,43 +215,7 @@
         "featured": false,
         "reviews": 234,
         "stars": 4.5,
-        "image": [
-          {
-            "id": "1",
-            "width": 1080,
-            "height": 1080,
-            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-1.png",
-            "filename": "rum-2.png",
-            "size": 1080,
-            "type": "image/png"
-          },
-          {
-            "id": "2",
-            "width": 1080,
-            "height": 1080,
-            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-2.png",
-            "filename": "rum-3.png",
-            "size": 1080,
-            "type": "image/png"
-          },
-          {
-            "id": "3",
-            "width": 1080,
-            "height": 1080,
-            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-3.png",
-            "filename": "rum-4.png",
-            "size": 1080,
-            "type": "image/png"
-          },
-          {
-            "id": "4",
-            "width": 1080,
-            "height": 1080,
-            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-4.png",
-            "filename": "rum-1.png",
-            "size": 1080,
-            "type": "image/png"
-          }
-        ]
+        "image": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-1.png"
+        
       }
 ]
