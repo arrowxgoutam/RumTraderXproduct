@@ -161,7 +161,7 @@
         "description": "This exquisite rum is a blend of premium aged rums from the Caribbean and Latin America. With a deep amber color and complex aroma of vanilla, oak, and spices, it's the perfect sipping rum for any occasion. On the palate, it delivers rich and smooth flavors of caramel, toffee, and toasted nuts, with a subtle hi",
         "category": "rum",
         "brand": "Jack Daniel’s",
-        "featured": true,
+        "featured": false,
         "reviews": 234,
         "stars": 4.5,
         "image": [
@@ -212,7 +212,7 @@
         "description": "This exquisite rum is a blend of premium aged rums from the Caribbean and Latin America. With a deep amber color and complex aroma of vanilla, oak, and spices, it's the perfect sipping rum for any occasion. On the palate, it delivers rich and smooth flavors of caramel, toffee, and toasted nuts, with a subtle hi",
         "category": "rum",
         "brand": "Jack Daniel’s",
-        "featured": false,
+        "featured": true,
         "reviews": 234,
         "stars": 4.5,
         "image": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-1.png"
