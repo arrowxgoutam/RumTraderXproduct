@@ -1,17 +1,55 @@
 [
-  {
-      "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "featured": true,
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-          "rate": 3.9,
-          "count": 120
-      }
-  },
+    {
+        "id": 1,
+        "title": "Jack Daniel’s",
+        "subtitle": "Jack Daniel’s Limited Edition “Bad Apple”",
+        "price": 99.35,
+        "offprice": 128.00,
+        "description": "This exquisite rum is a blend of premium aged rums from the Caribbean and Latin America. With a deep amber color and complex aroma of vanilla, oak, and spices, it's the perfect sipping rum for any occasion. On the palate, it delivers rich and smooth flavors of caramel, toffee, and toasted nuts, with a subtle hi",
+        "category": "rum",
+        "brand": "Jack Daniel’s",
+        "featured": true,
+        "reviews": 234,
+        "stars": 4.5,
+        "image": [
+          {
+            "id": "1",
+            "width": 1080,
+            "height": 1080,
+            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-1.png",
+            "filename": "rum-2.png",
+            "size": 1080,
+            "type": "image/png"
+          },
+          {
+            "id": "2",
+            "width": 1080,
+            "height": 1080,
+            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-2.png",
+            "filename": "rum-3.png",
+            "size": 1080,
+            "type": "image/png"
+          },
+          {
+            "id": "3",
+            "width": 1080,
+            "height": 1080,
+            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-3.png",
+            "filename": "rum-4.png",
+            "size": 1080,
+            "type": "image/png"
+          },
+          {
+            "id": "4",
+            "width": 1080,
+            "height": 1080,
+            "url": "https://raw.githubusercontent.com/arrowxgoutam/RumTraderXproduct/main/images/product-4.png",
+            "filename": "rum-1.png",
+            "size": 1080,
+            "type": "image/png"
+          }
+        ]
+      },
   {
       "id": 2,
       "title": "Mens Casual Premium Slim Fit T-Shirts ",
